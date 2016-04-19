@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: Live Flat Earth Weather Map
-datePublished: '2016-04-19T02:05:37.877Z'
-dateModified: '2016-04-19T02:03:47.341Z'
+datePublished: '2016-04-19T02:06:21.809Z'
+dateModified: '2016-04-19T02:05:44.496Z'
 title: ''
 author: []
 sourcePath: _posts/2016-04-19-live-flat-earth-weather-map.md
